@@ -6,9 +6,9 @@ using System.Text;
 
 namespace Snake
 {
-    class 
+    class Point
     {
-        public int ;
+        public int x;
         public int y;
         public char sym;
 
