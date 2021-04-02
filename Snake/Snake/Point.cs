@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Snake
 {
-    class Point
+    class 
     {
         public int ;
         public int y;
